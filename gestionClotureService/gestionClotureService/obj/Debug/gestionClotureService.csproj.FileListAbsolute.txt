@@ -23,3 +23,4 @@ C:\Users\vielf\Documents\Mike\Visual Studio\gestionClotureService\gestionCloture
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionClotureService\gestionClotureService\gestionClotureService\obj\Debug\gestionClotureService.csproj.CopyComplete
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionClotureService\gestionClotureService\gestionClotureService\obj\Debug\gestionClotureService.exe
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionClotureService\gestionClotureService\gestionClotureService\obj\Debug\gestionClotureService.pdb
+C:\Users\vielf\Documents\Mike\Visual Studio\gestionClotureService\gestionClotureService\gestionClotureService\bin\Debug\gestionClotureService.xml
