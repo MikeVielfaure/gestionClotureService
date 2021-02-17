@@ -21,7 +21,7 @@
  
  3.Documentation 
  
- - [vers la page du projet]()
+ - [vers la page du projet](https://vielfauremike.wixsite.com/portfolio/gestioncloture)
  
   
  
@@ -29,6 +29,6 @@
   
  4.Lien vers l'application
  
- - [vers le service]()
+ - [vers l'application](https://github.com/MikeVielfaure/gestionCloture.git)
 
 
